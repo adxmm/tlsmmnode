@@ -1,6 +1,6 @@
 You need to require node.js for using this script. Node.js is super fast and it can convert super big file.
 
-approximate long time is 1 MB = 1 seconds
+approximate long time is 1 MB = 1.3 seconds
 
 But it's base on zawgyi text.
 
