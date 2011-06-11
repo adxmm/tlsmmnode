@@ -1,4 +1,4 @@
-You need to require node.js for using this script. Node.js is super fast and it can convert super big file.
+You need to install node.js for using this script. Node.js is super fast and it can convert super big file.
 
 approximate long time is 1 MB = 1.3 seconds
 
@@ -22,3 +22,8 @@ tlsmmnode.js is copy from [MyanmarConverter.xpi](http://www.thanlwinsoft.org/Mya
             var converter = tlsMyanmarConverters["zawgyi-one"];
             return converter.convertToUnicode(input_val);
         };
+
+Todo
+----
+
+Need to remove unnecessary codes from tlsmmnode.
